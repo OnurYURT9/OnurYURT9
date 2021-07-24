@@ -1,6 +1,6 @@
 
 ## Education
-* Kılıçarslan Anotolian School
+* Kılıçarslan Anotolian High School
 * Karamanoğlu Mehmetbey University
 
 
