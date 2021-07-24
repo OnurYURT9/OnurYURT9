@@ -1,6 +1,4 @@
 
-
-# Who Am I {My favorite movie}
 ## Education
 * Kılıçarslan Anotolian School
 * Karamanoğlu Mehmetbey University
