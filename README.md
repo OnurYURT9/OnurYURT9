@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome!
+![sss](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif?style=margin-left:50px)
 
-<!--
-**OnurYURT9/OnurYURT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who Am I {My favorite movie}
+## Education
+* Kılıçarslan Anotolian School
+* Karamanoğlu Mehmetbey University
 
-Here are some ideas to get you started:
+## Characteristic Features 
+* I'm Cheerful
+* I'm from Kastamonu
+* I lived in Kütahya
+* Software freak
+* I love tea and coffee
+* Reading news about technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnurYURT9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurYURT9&layout=compact&langs_count=10)](https://github.com/OnurYURT9/OnurYURT9)
+![OnurYurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurYURT9&show_icons=true&theme=dark)
+
