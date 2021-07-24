@@ -1,6 +1,5 @@
 
 ## Education
-* Kılıçarslan Anotolian High School
 * Karamanoğlu Mehmetbey University/Computer Engineering Degree
 
 
