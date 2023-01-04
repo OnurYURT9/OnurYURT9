@@ -1,5 +1,5 @@
 
-## JUNIOR .NET FULL STACK DEVELOPER
+## JUNIOR .NET BACK END DEVELOPER
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurYURT9&layout=compact&langs_count=10)](https://github.com/OnurYURT9/OnurYURT9)
