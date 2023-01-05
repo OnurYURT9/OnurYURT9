@@ -2,10 +2,9 @@
 ## JUNIOR .NET DEVELOPER
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurYURT9&layout=compact&langs_count=10)](https://github.com/OnurYURT9/OnurYURT9)
-![OnurYurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnurYURT9&show_icons=true&theme=dark)
 ## My Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnurYURT9&theme=dark)](https://git.io/OnurYURT9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onuryurt9&layout=compact&langs_count=10&theme=dark)](https://github.com/oguzhanfiliz/oguzhanfiliz)
+![OguzhanFiliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=onuryurt9&show_icons=true&theme=dark)
 ## Tools
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
