@@ -5,6 +5,8 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=onuryurt9&layout=compact)
 <a href="http://www.github.com/onuryurt9">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onuryurt9&show_icons=true&hide=&count_private=true&title_color=FF7F00&text_color=00000&icon_color=00000&theme=dark&bg_color=00000&hide_border=true&show_icons=true" alt="onuryurt's GitHub stats" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=OnurYurt9)](https://git.io/streak-stats)
+
 ## Tools
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
