@@ -21,3 +21,4 @@
  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
    <a href="https://https://www.odata.org" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/odata/wp-content/uploads/sites/23/2019/02/ODataLogo-250.png" alt="odata" width="40" height="40"/> </a>
+   <a href="https://https://https://identityserver4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://identityserver4.readthedocs.io/en/latest/_images/logo.png" alt="odata" width="40" height="40"/> </a>
